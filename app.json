@@ -1,0 +1,18 @@
+{
+  "pages":[
+    "pages/login/login",
+    "pages/jumppage/jumppage",
+    "pages/contlists/contlists",
+    "pages/stepone/stepone",
+    "pages/video/video",
+    "pages/steptwo/steptwo",
+    "pages/photo/photo",
+    "pages/convas/convas"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  }
+}
